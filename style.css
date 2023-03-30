@@ -6,15 +6,15 @@
     color: darkblue;
   }
   
-  #email {
+  .email {
     background-color: goldenrod;
   }
   
-  #github {
+  .github {
     background-color: lightsteelblue;
   }
   
-  #portfolio {
+  .portfolio {
     background-color: darkorange;
   }
   
